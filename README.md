@@ -1,3 +1,5 @@
+# RNA_Emociones-sexo
+
 RNA convolucional utilizando python y algunas librerias para lograr la deteccion de genero y emociones de una persona.
 El proyecto cuenta con un modelo previamente entrenado, un archivo que ejecuta el modelo seleccionando un archivo, carpeta con datos de prueba, dataset con la estructura que reconoce el algoritmo.
 
